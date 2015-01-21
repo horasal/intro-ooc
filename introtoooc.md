@@ -1,8 +1,8 @@
-# Introduction to OOC Programming language
+# Introduction to OOC Programming Language
 
 `文/akisann @ cnblogs.com / zhaihj @ github.com`
 
-本文同时发布在github上：[https://github.com/zhaihj/intro-ooc](https://github.com/zhaihj/intro-ooc)
+本文同时发布在cnblogs上：[http://www.cnblogs.com/akisan/p/4238912.html](http://www.cnblogs.com/akisan/p/4238912.html)
 
 `本文遵循CC-BY-NC。`
 
